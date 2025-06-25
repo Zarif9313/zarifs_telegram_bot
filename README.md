@@ -5,7 +5,7 @@ Bu loyiha sun’iy intellekt asosida mijozlarning kompaniyani tark etish ehtimol
 ---
 
 ##  Loyiha Tuzilmasi
-
+```
 churn-predictor-bot/
 ├── data/
 │ └── dataset.csv # Mijozlar ma’lumotlari
@@ -20,7 +20,7 @@ churn-predictor-bot/
 ├── notebook.ipynb # Modelni tayyorlash uchun kodlar
 ├── report.md # Texnik hisobot (markdown)
 └── README.md # Ushbu fayl
-
+```
 
 ---
 
