@@ -9,7 +9,7 @@ scaler = joblib.load('model/scaler.pkl')
 model_cols = joblib.load('model/model_cols.pkl')
 
 # Telegram token
-TOKEN = '7694427496:AAEyeZXtKdiUagGTkoDA05vFydVE1Otzm-c'
+TOKEN = '8142525235:AAFn8ObjmKD3eKv5gdyrfzEyx-JC-cD3XJs'
 bot = telebot.TeleBot(TOKEN)
 
 # Model xususiyatlari

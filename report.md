@@ -100,8 +100,8 @@ Mijozlar tarixi asosida dinamik model
 Segmentatsiya asosida maxsus churn sabablari
 
 👨‍💻 Loyiha Muallifi
-Ism: Dexqonov Muhammadrózi
+Ism: Abdihomidov Zarif
 
-Telegram: @f_o_bb
+Telegram: @zarif0803
 
-Email: dehqonovmuhammadrozi@gmail.com
+Email: zarifabdihomidov@gmail.com

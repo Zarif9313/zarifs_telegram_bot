@@ -88,8 +88,8 @@ Bot javobi:
  Churn ehtimoli: 78%
  Tavsiya: Bu mijozni sodiqlik dasturi orqali ushlab qolish mumkin.
  Muallif
-Ism: Dexqonov Muhammadrózi
+Ism: Abdihomidov Zarif
 
-Email: dehqonovmuhammadrozi@gmail.com
+Email: zarifabdihomidov@gmail.com
 
-Telegram: @f_o_bb
+Telegram: @zarif0803
